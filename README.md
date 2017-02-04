@@ -7,4 +7,5 @@ This is a place to practice git. Your first exercise is to append your contact d
 |Arnab Bir | 14MA20009      | arnabbir@gmail.com  |
 |Ashwary Anand | 15MF10004  |  vshlkumar56@gmail.com |
 |Kaustubh Mani     | 13EX20013      | kaustubh3095@gmail.com             |
+|Krishnakant Deshmukh | 15EE10013  |  krishdeshmukh24@gmail.com |
 |Pareen Jain       | 14ME10029      | pareen.jain@gmail.com / djparis678@gmail.com  |
